@@ -7,4 +7,5 @@ document.querySelector("h1").addEventListener("mouseleave",(e)=>{
 document.querySelector("button").addEventListener("click",(e)=>[
     document.querySelector("div").classList.add("animate")
 ])
+console.log("hello world")
 
